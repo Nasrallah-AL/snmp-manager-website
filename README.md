@@ -30,25 +30,13 @@ Once the application is running, users can access the dashboard to view statisti
 
 ## Support
 
-For any questions or assistance, feel free to contact our support team at [support@example.com](mailto:support@example.com).
+For any questions or assistance, feel free to contact us.
 
 ## Contributing
 
 We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, please submit a pull request. Before making significant changes, consider opening an issue to discuss the proposed modifications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 📊 **Manage SNMP MIB objects and monitor network performance with ease using the SNMP Website Manager!**
 
----
-
-### Possible questions to ask:
-1. Can you provide more details about the statistical insights offered in the dashboard?
-2. How is SNMP MIB object management implemented in the application?
-3. Are there any specific requirements for setting up the web server environment?
-4. What security measures are in place to protect sensitive SNMP data?
-5. How can users contribute to the project and add new features?
